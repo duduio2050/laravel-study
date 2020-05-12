@@ -15,7 +15,7 @@
 
 # 프로젝트 구조
 1. app - 모델, 컨트롤러를 담은 객체 폴더<br>
-2. Model - Mysql connect<br>
+2. Model - 데이터베이스<br>
 3. Controller <br>
 4. route - 라우팅<br>
 5. view - 뷰 파일
