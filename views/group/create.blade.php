@@ -1,10 +1,11 @@
-<div> 
-<img width="100" src="https://user-images.githubusercontent.com/52492230/81666452-042b7080-947d-11ea-8580-56e74bbc700d.png">
-</div>
+
 
 @extends('layouts.app')
 
 @section('content')
+<div> 
+<img width="100" src="https://user-images.githubusercontent.com/52492230/81666452-042b7080-947d-11ea-8580-56e74bbc700d.png">
+</div>
 
     <div class="row">
         <div class="col-md-12">
