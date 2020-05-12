@@ -20,9 +20,9 @@
 4. route - 라우팅<br>
 5. view - 뷰 파일
  1)![스크린샷-2020-05-12-오후-6 01 30](https://user-images.githubusercontent.com/52492230/81666452-042b7080-947d-11ea-8580-56e74bbc700d.png)
- 2)
- 3)
- 4)
- 5)
+ 2)![스크린샷-2020-05-12-오후-6 01 44](https://user-images.githubusercontent.com/52492230/81666454-042b7080-947d-11ea-8580-fc5495999313.png)
+ 3)![스크린샷-2020-05-12-오후-6 01 51](https://user-images.githubusercontent.com/52492230/81666457-04c40700-947d-11ea-80d2-c6d510b7a86e.png)
+ 4)![스크린샷-2020-05-12-오후-6 01 21](https://user-images.githubusercontent.com/52492230/81666447-0392da00-947d-11ea-90be-d33698c6b0b1.png)
+ 5)![스크린샷-2020-05-12-오후-6 01 10](https://user-images.githubusercontent.com/52492230/81666429-ff66bc80-947c-11ea-92a9-9c9ade114b72.png)
 
 
