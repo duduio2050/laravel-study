@@ -35,11 +35,15 @@
  6) CRUD : Delete <br>![스크린샷 2020-05-15 오후 3 23 45](https://user-images.githubusercontent.com/52492230/82022622-ef8ee880-96c7-11ea-9266-b5f3e1f049d9.png)<br>
  5) 그룹 List ![스크린샷-2020-05-12-오후-6 01 21](https://user-images.githubusercontent.com/52492230/81666447-0392da00-947d-11ea-90be-d33698c6b0b1.png)
  ![스크린샷 2020-05-15 오후 3 23 06](https://user-images.githubusercontent.com/52492230/82022614-edc52500-96c7-11ea-9184-0bed511c3e99.png)
- 6) 각각의 그룹에 회원 추가 ![스크린샷-2020-05-12-오후-6 01 10](https://user-images.githubusercontent.com/52492230/81666429-ff66bc80-947c-11ea-92a9-9c9ade114b72.png)
-   1) Member List : ![스크린샷 2020-05-15 오후 3 23 55](https://user-images.githubusercontent.com/52492230/82022626-f0277f00-96c7-11ea-8c35-a44f0bd73d20.png)
-   2) Member edit : ![스크린샷 2020-05-15 오후 3 24 06](https://user-images.githubusercontent.com/52492230/82022637-f3bb0600-96c7-11ea-9f67-d88c9049f0f1.png)
+ 6) 각각의 그룹에 회원 추가 ![스크린샷-2020-05-12-오후-6 01 10](https://user-images.githubusercontent.com/52492230/81666429-ff66bc80-947c-11ea-92a9-9c9ade114b72.png)<br>
+   1) Member List<br> ![스크린샷 2020-05-15 오후 3 23 55](https://user-images.githubusercontent.com/52492230/82022626-f0277f00-96c7-11ea-8c35-a44f0bd73d20.png)<br>
+   2) Member edit <br> ![스크린샷 2020-05-15 오후 3 24 06](https://user-images.githubusercontent.com/52492230/82022637-f3bb0600-96c7-11ea-9f67-d88c9049f0f1.png)<br>
 # 2. Serach 기능 : 인원이 너무 많아 원하는 회원의 정보를 찾기가 힘들수 있기 때문에 검색기능 필요.
 
 ![스크린샷 2020-05-15 오후 3 22 48](https://user-images.githubusercontent.com/52492230/82022611-ec93f800-96c7-11ea-9e95-d92243bd070f.png)
+![search](https://user-images.githubusercontent.com/52492230/82027843-d1c58180-96cf-11ea-8bd2-f566cb3caa56.png)
+![search1](https://user-images.githubusercontent.com/52492230/82027855-d5590880-96cf-11ea-913e-0f2b7346b158.png)
+![search2](https://user-images.githubusercontent.com/52492230/82027858-d5f19f00-96cf-11ea-8b45-9d8f93ed4fff.png)
+
 
 
