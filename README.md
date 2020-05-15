@@ -39,9 +39,7 @@
    1) Member List : ![스크린샷 2020-05-15 오후 3 23 55](https://user-images.githubusercontent.com/52492230/82022626-f0277f00-96c7-11ea-8c35-a44f0bd73d20.png)
    2) Member edit : ![스크린샷 2020-05-15 오후 3 24 06](https://user-images.githubusercontent.com/52492230/82022637-f3bb0600-96c7-11ea-9f67-d88c9049f0f1.png)
 # 2. Serach 기능 : 인원이 너무 많아 원하는 회원의 정보를 찾기가 힘들수 있기 때문에 검색기능 필요.
-![스크린샷 2020-05-15 오후 2 53 45](https://user-images.githubusercontent.com/52492230/82022788-2ebd3980-96c8-11ea-899f-14402e934d5d.png)
-![스크린샷 2020-05-15 오후 2 53 59](https://user-images.githubusercontent.com/52492230/82022803-3250c080-96c8-11ea-8d97-25b617c3ee86.png)
-![스크린샷 2020-05-15 오후 2 57 19](https://user-images.githubusercontent.com/52492230/82022805-32e95700-96c8-11ea-95ef-f1a3b566d93b.png)
+
 ![스크린샷 2020-05-15 오후 3 22 48](https://user-images.githubusercontent.com/52492230/82022611-ec93f800-96c7-11ea-9e95-d92243bd070f.png)
 
 
