@@ -18,7 +18,7 @@
 2. Model - 데이터베이스<br>
 3. Controller <br>
 4. route - 라우팅<br>
-5. view - 뷰 파일
+5. view - 뷰 파일<br>
  1)![스크린샷-2020-05-12-오후-6 01 30](https://user-images.githubusercontent.com/52492230/81666452-042b7080-947d-11ea-8580-56e74bbc700d.png)
  2)![스크린샷-2020-05-12-오후-6 01 44](https://user-images.githubusercontent.com/52492230/81666454-042b7080-947d-11ea-8580-fc5495999313.png)
  3)![스크린샷-2020-05-12-오후-6 01 51](https://user-images.githubusercontent.com/52492230/81666457-04c40700-947d-11ea-80d2-c6d510b7a86e.png)
