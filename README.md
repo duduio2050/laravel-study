@@ -19,6 +19,9 @@
 3. Controller <br>
 4. route - 라우팅<br>
 5. view - 뷰 파일<br>
+
+# 구현 기능
+# 1. CRUD : 관리자는 Group 추가/수정/삭제를 할 수있고 회원을 각각의 그룹에 추가할 수 있다. 
  1)![스크린샷-2020-05-12-오후-6 01 30](https://user-images.githubusercontent.com/52492230/81666452-042b7080-947d-11ea-8580-56e74bbc700d.png)
  2)![스크린샷-2020-05-12-오후-6 01 44](https://user-images.githubusercontent.com/52492230/81666454-042b7080-947d-11ea-8580-fc5495999313.png)
  3)![스크린샷-2020-05-12-오후-6 01 51](https://user-images.githubusercontent.com/52492230/81666457-04c40700-947d-11ea-80d2-c6d510b7a86e.png)
