@@ -26,7 +26,7 @@
  1) CRUD : Create ![스크린샷-2020-05-12-오후-6 01 30](https://user-images.githubusercontent.com/52492230/81666452-042b7080-947d-11ea-8580-56e74bbc700d.png)
  2) CRUD : Read ![스크린샷-2020-05-12-오후-6 01 44](https://user-images.githubusercontent.com/52492230/81666454-042b7080-947d-11ea-8580-fc5495999313.png)
  3) CRUD : Update ![스크린샷-2020-05-12-오후-6 01 51](https://user-images.githubusercontent.com/52492230/81666457-04c40700-947d-11ea-80d2-c6d510b7a86e.png)
- 4)그룹 List ![스크린샷-2020-05-12-오후-6 01 21](https://user-images.githubusercontent.com/52492230/81666447-0392da00-947d-11ea-90be-d33698c6b0b1.png)
+ 4) 그룹 List ![스크린샷-2020-05-12-오후-6 01 21](https://user-images.githubusercontent.com/52492230/81666447-0392da00-947d-11ea-90be-d33698c6b0b1.png)
  5) 각각의 그룹에 회원 추가 ![스크린샷-2020-05-12-오후-6 01 10](https://user-images.githubusercontent.com/52492230/81666429-ff66bc80-947c-11ea-92a9-9c9ade114b72.png)
 
 # 2. Serach 기능 : 인원이 너무 많아 원하는 회원의 정보를 찾기가 힘들수 있기 때문에 검색기능 필요.
