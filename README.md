@@ -40,10 +40,10 @@
    (2) Member edit <br> ![스크린샷 2020-05-15 오후 3 24 06](https://user-images.githubusercontent.com/52492230/82022637-f3bb0600-96c7-11ea-9f67-d88c9049f0f1.png)<br>
 # 2. Serach 기능 : 인원이 너무 많아 원하는 회원의 정보를 찾기가 힘들수 있기 때문에 검색기능 필요.
 
-![스크린샷 2020-05-15 오후 3 22 48](https://user-images.githubusercontent.com/52492230/82022611-ec93f800-96c7-11ea-9e95-d92243bd070f.png)
-![search](https://user-images.githubusercontent.com/52492230/82027843-d1c58180-96cf-11ea-8bd2-f566cb3caa56.png)
-![search1](https://user-images.githubusercontent.com/52492230/82027855-d5590880-96cf-11ea-913e-0f2b7346b158.png)
-![search2](https://user-images.githubusercontent.com/52492230/82027858-d5f19f00-96cf-11ea-8b45-9d8f93ed4fff.png)
+![스크린샷 2020-05-15 오후 3 22 48](https://user-images.githubusercontent.com/52492230/82022611-ec93f800-96c7-11ea-9e95-d92243bd070f.png)<br>
+1) 기본 유저리스트 페이지<br> ![search](https://user-images.githubusercontent.com/52492230/82027843-d1c58180-96cf-11ea-8bd2-f566cb3caa56.png)<br>
+2) 유저명 : 오현택 검색 <br>![search1](https://user-images.githubusercontent.com/52492230/82027855-d5590880-96cf-11ea-913e-0f2b7346b158.png)<br>
+3) 그룹검색 ![search2](https://user-images.githubusercontent.com/52492230/82027858-d5f19f00-96cf-11ea-8b45-9d8f93ed4fff.png)
 
 
 
