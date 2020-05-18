@@ -21,15 +21,6 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-
 Route::get('/group','HomeController@group')->name('group');
 
 Route::get('/group_read/{id}','HomeController@groupRead')->name('group_read');
