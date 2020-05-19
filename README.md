@@ -21,7 +21,9 @@
 5. view - 뷰 파일<br>
 
 # 구현 기능
-# 1. CRUD : 관리자는 Group 추가/수정/삭제를 할 수있고 회원을 각각의 그룹에 추가할 수 있다. 
+# 1. CRUD : 관리자는 Group 추가/수정/삭제를 할 수있고 회원을 각각의 그룹에 추가할 수 있다.
+DB 설계 : ![스크린샷 2020-05-19 오후 6 41 52](https://user-images.githubusercontent.com/52492230/82311336-89c09a80-9a00-11ea-829f-273778380bbd.png)<br>
+![스크린샷 2020-05-19 오후 6 41 59](https://user-images.githubusercontent.com/52492230/82311344-8cbb8b00-9a00-11ea-87f3-2e1e4f041413.png)<br>
 
  1) CRUD : Create <br>![스크린샷-2020-05-12-오후-6 01 30](https://user-images.githubusercontent.com/52492230/81666452-042b7080-947d-11ea-8580-56e74bbc700d.png)<br>
  ![스크린샷 2020-05-15 오후 3 23 23](https://user-images.githubusercontent.com/52492230/82022617-ee5dbb80-96c7-11ea-9654-f0eca261b3cf.png)<br>
