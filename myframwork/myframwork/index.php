@@ -1,9 +1,5 @@
 <?php
 
-use app\common\DotEnv;
-use app\common\Router;
-use app\controllers\HomeController;
-
 // 세션 시작
 session_start();
 // 에러로그 출력 여부
